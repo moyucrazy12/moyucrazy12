@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <strong>Engineer | Researcher | Developer</strong>  
+  <strong>Mechatronics Engineer | Research Assistant | STEM Instructor</strong>  
 </p>
 <p align="center">
   I build intelligent robots, from real-time control to AI-powered perception.  
