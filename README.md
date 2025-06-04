@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  I build intelligent robotic systems that merge real-time control, AI, and autonomy—driven by a passion for innovation, hands-on research, and knowledge sharing.
-</p>
-
-<p align="center">
   <a href="https://www.canva.com/design/DAGpa4CSnJ0/heX9obPbPh4_K79O0isQlw/view?utm_content=DAGpa4CSnJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc61bfb3311" target="_blank">Projects Presentation</a>
 </p>
 
