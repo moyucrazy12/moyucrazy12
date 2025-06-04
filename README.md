@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Mechatronics Engineer | Research Assistant | STEM Instructor | Roboticist in Progress </strong>  
+  <strong>Mechatronics Engineer | Research & Teaching Assistant | STEM Instructor | Roboticist in Progress </strong>  
 </p>
 <p align="center">
   I build intelligent robotic systems that merge real-time control, AI, and autonomy—driven by a passion for innovation, hands-on research, and knowledge sharing.
@@ -34,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20"/> <strong>USA</strong>
   </li>
   <li>🤝 Passionate about collaborating on interdisciplinary and impactful robotics projects</li>
-  <li>🏆 FIRST PLACE @ <a href="https://www.lasc.space/past-events/3rd-lasc" target="_blank">LASC2021</a> and <a href="https://www.lasc.space/past-events/5th-lasc" target="_blank">LASC2023</a> in CanSat Cathegory </li>
+  <li>🏆 FIRST PLACE @ <a href="https://www.lasc.space/past-events/3rd-lasc" target="_blank">LASC2021</a> and <a href="https://www.lasc.space/past-events/5th-lasc" target="_blank">LASC2023</a> in CanSat Cathegory (Chaska Team)</li>
 </ul>
 
 ---
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
