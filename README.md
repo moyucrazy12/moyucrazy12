@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <strong>Mechatronics Engineer | Research Assistant | STEM Instructor</strong>  
+  <strong>Mechatronics Engineer | Research Assistant | STEM Instructor | Roboticist in Progress </strong>  
 </p>
 <p align="center">
   I build intelligent robots, from real-time control to AI-powered perception.  
