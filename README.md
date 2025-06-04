@@ -23,7 +23,12 @@
   <li>🚀 <strong>Autonomy software & control designer</strong> for the <strong>Illaryi Rover</strong> (Chaska Team, 🇵🇪 Peru) at the <strong>European Rover Challenge 2025</strong></li>
   <li>🔬 Focused on <strong>autonomous navigation</strong>, <strong>SLAM</strong>, <strong>soft robotics</strong>, and <strong>AI perception</strong></li>
   <li>⚙️ Skilled in <strong>ROS</strong>, <strong>embedded systems</strong>, and <strong>deep learning</strong></li>
-  <li>🌍 International experience in robotics across 🇵🇪 <strong>Peru</strong>, 🇸🇪 <strong>Sweden</strong>, 🇧🇷 <strong>Brazil</strong>, and 🇺🇸 <strong>USA</strong></li>
+   <li>🌍 International experience in robotics across:
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>,
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/se.svg" width="20"/> <strong>Sweden</strong>,
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="20"/> <strong>Brazil</strong>, and
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20"/> <strong>USA</strong>
+  </li>
   <li>🤝 Passionate about collaborating on interdisciplinary and impactful robotics projects</li>
 </ul>
 
