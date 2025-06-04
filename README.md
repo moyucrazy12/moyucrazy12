@@ -88,10 +88,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact" alt="moyucrazy12" />
-  <img src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&theme=gruvbox&hide=issues"/>
-  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyucrazy12&theme=gruvbox"/>
 </p>
 
