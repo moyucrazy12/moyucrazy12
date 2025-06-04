@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="140" alt="robots"/>
+  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="180" alt="robots"/>
 </p>
 
 ---
@@ -92,16 +92,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact" alt="moyucrazy12" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyucrazy12&theme=gruvbox"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
@@ -115,4 +105,14 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyucrazy12&theme=gruvbox" alt="GitHub Streak" height="160"/>
+</p>
+
+
 
