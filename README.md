@@ -79,15 +79,20 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArduPilot-UAV--Autopilot-213A64?style=for-the-badge&logo=airplayaudio&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact" alt="moyucrazy12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&locale=en" alt="moyucrazy12" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&theme=gruvbox&hide=issues"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyucrazy12&theme=gruvbox"/>
+</p>
 
 ---
 
