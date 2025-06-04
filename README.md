@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="120" alt="code gif"/>
+  <img src="https://i.gifer.com/7VE.gif" width="180" alt="robot arm gif"/>
 </p>
 
 <h1 align="center">🤖 Welcome to My Robotics & AI Lab</h1>
 
 <p align="center">
-  <img src="https://img.freepik.com/vector-premium/icono-robot-cabeza-ia-o-inteligencia-artificial-vector-diseno_564974-2340.jpg?w=826" width="120" alt="robot logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="100" alt="robot icon"/>
 </p>
+
 
 <p align="center">
   <strong>Engineer | Researcher | Developer</strong>  
