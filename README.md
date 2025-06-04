@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="180" alt="robot arm gif"/>
+  <img src="https://i.gifer.com/7VE.gif" width="100" alt="robot arm gif"/>
 </p>
 
 <h1 align="center">🤖 Welcome to My Robotics & AI Lab</h1>
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="100" alt="robots"/>
+  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="140" alt="robots"/>
 </p>
 
 
