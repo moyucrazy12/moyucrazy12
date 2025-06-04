@@ -1,30 +1,31 @@
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100" alt="robot arm gif"/>
-</p>
-
 <h1 align="center">🤖 Welcome to My Robotics & AI Lab</h1>
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="140" alt="robots"/>
+  <img src="https://i.gifer.com/7VE.gif" width="100" alt="robot arm gif"/>
 </p>
-
 
 <p align="center">
   <strong>Mechatronics Engineer | Research Assistant | STEM Instructor | Roboticist in Progress </strong>  
 </p>
 <p align="center">
-  I build intelligent robots, from real-time control to AI-powered perception.  
-  Bridging the gap between code and physical systems.
+  I build intelligent robotic systems that merge real-time control, AI, and autonomy—driven by a passion for innovation, hands-on research, and knowledge sharing.
+</p>
+
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="140" alt="robots"/>
 </p>
 
 ---
 
-## 🧠 About Me
+<h2>🧠 About Me</h2>
 
-- 🔬 Working on **autonomous navigation**, **SLAM**, **soft robotics**, and **AI perception**
-- ⚙️ Experienced with **ROS, embedded systems, and deep learning**
-- 🌍 Passionate about applying tech to **real-world problems and sustainable systems**
-- 🚀 Open to collaboration on interdisciplinary robotic applications!
+<ul>
+  <li>🚀 <strong>Autonomy software & control designer</strong> for the <strong>Illaryi Rover</strong> (Chaska Team, 🇵🇪 Peru) at the <strong>European Rover Challenge 2025</strong></li>
+  <li>🔬 Focused on <strong>autonomous navigation</strong>, <strong>SLAM</strong>, <strong>soft robotics</strong>, and <strong>AI perception</strong></li>
+  <li>⚙️ Skilled in <strong>ROS</strong>, <strong>embedded systems</strong>, and <strong>deep learning</strong></li>
+  <li>🌍 International experience in robotics across 🇵🇪 <strong>Peru</strong>, 🇸🇪 <strong>Sweden</strong>, 🇧🇷 <strong>Brazil</strong>, and 🇺🇸 <strong>USA</strong></li>
+  <li>🤝 Passionate about collaborating on interdisciplinary and impactful robotics projects</li>
+</ul>
 
 ---
 
