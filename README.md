@@ -89,12 +89,15 @@
 
 ## 📫 Connect With Me
 
-<p>
-  🌐 <a href="https://your-portfolio.com" target="_blank">Portfolio Website</a><br/>
-  💼 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a><br/>
-  📧 <a href="mailto:your.email@example.com">Email Me</a>
+<p align="left">
+  <a href="mailto:c.mallqui@pucp.edu.pe" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="www.linkedin.com/in/cristhian-mallqui-castro" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/crisspaceee/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moyucrazy12&label=Profile%20Views&color=blue" alt="profile views"/>
-</p>
