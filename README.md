@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/Gazebo-2C528C?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/RViz-00599C?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/MoveIt-4C4C4C?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nav2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+
 </p>
 
 ### AI / ML / CV
@@ -92,7 +94,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="www.linkedin.com/in/cristhian-mallqui-castro" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="www.linkedin.com/in/cristhian-mallqui-castro&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/crisspaceee/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
