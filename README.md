@@ -30,6 +30,7 @@
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20"/> <strong>USA</strong>
   </li>
   <li>🤝 Passionate about collaborating on interdisciplinary and impactful robotics projects</li>
+  <li>🏆 FIRST PLACE @ <a href="[https://www.youtube.com/watch?v=TbBJTeVG7Tk](https://www.lasc.space/past-events/3rd-lasc)" target="_blank">LASC2021</a> and <a href="https://www.lasc.space/past-events/5th-lasc" target="_blank">LASC2023</a> in CanSat Cathegory </li>
 </ul>
 
 ---
