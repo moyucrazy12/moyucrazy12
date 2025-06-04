@@ -1,7 +1,11 @@
-<h1 align="center">🤖 Welcome to My Robotics & AI Hub!</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="120" alt="code gif"/>
+</p>
+
+<h1 align="center">🤖 Welcome to My Robotics & AI Lab</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="200" alt="robot gif"/>
+  <img src="https://img.freepik.com/vector-premium/icono-robot-cabeza-ia-o-inteligencia-artificial-vector-diseno_564974-2340.jpg?w=826" width="120" alt="robot logo"/>
 </p>
 
 <p align="center">
