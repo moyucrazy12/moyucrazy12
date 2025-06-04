@@ -1,68 +1,95 @@
 <h1 align="center">🤖 Welcome to My Robotics & AI Hub!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="200" alt="robot gif"/>
 </p>
 
 <p align="center">
-  <b>Engineer | Researcher | Developer</b><br/>
-  Passionate about building intelligent robotic systems that interact with the world.<br/>
+  <strong>Engineer | Researcher | Developer</strong>  
+</p>
+<p align="center">
+  I build intelligent robots, from real-time control to AI-powered perception.  
+  Bridging the gap between code and physical systems.
 </p>
 
-<hr/>
+---
 
-<h2>🔬 About Me</h2>
-<ul>
-  <li>🎓 Background in <strong>Mechatronics, AI, and Embedded Systems</strong></li>
-  <li>🤝 Collaborating on <strong>autonomous navigation, SLAM, and soft robotics</strong></li>
-  <li>📡 Experience with <strong>ROS, OpenCV, PyTorch, and embedded microcontrollers</strong></li>
-  <li>🚀 Always exploring the edge between <strong>AI and real-world physical systems</strong></li>
-</ul>
+## 🧠 About Me
 
-<hr/>
+- 🔬 Working on **autonomous navigation**, **SLAM**, **soft robotics**, and **AI perception**
+- ⚙️ Experienced with **ROS, embedded systems, and deep learning**
+- 🌍 Passionate about applying tech to **real-world problems and sustainable systems**
+- 🚀 Open to collaboration on interdisciplinary robotic applications!
 
-<h2>🛠️ Technologies I Work With</h2>
-<table>
-  <tr>
-    <td><strong>Programming</strong></td>
-    <td>Python, C++, ROS 2, MATLAB</td>
-  </tr>
-  <tr>
-    <td><strong>Robotics</strong></td>
-    <td>SLAM, Navigation, Control, Arm Manipulation</td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>Computer Vision, Deep Learning, Reinforcement Learning</td>
-  </tr>
-  <tr>
-    <td><strong>Hardware</strong></td>
-    <td>Raspberry Pi, Arduino, Jetson Nano, Teensy</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Gazebo, RViz, MoveIt, Git, Docker</td>
-  </tr>
-</table>
+---
 
-<hr/>
+## 🛠️ Tech Stack & Tools
 
-<h2>📈 GitHub Stats</h2>
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+### Robotics
+
+<p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-2C528C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RViz-00599C?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MoveIt-4C4C4C?style=for-the-badge&logo=robotframework&logoColor=white"/>
+</p>
+
+### AI / ML / CV
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### Hardware & Embedded
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Teensy-555555?style=for-the-badge&logo=usb&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide=issues"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
-<hr/>
+---
 
-<h2>📫 Let's Connect</h2>
+## 📫 Connect With Me
+
 <p>
-  🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> <br/>
-  🌐 <a href="https://your-portfolio.com" target="_blank">Portfolio</a> <br/>
-  📬 <a href="mailto:your.email@example.com">Email Me</a>
+  🌐 <a href="https://your-portfolio.com" target="_blank">Portfolio Website</a><br/>
+  💼 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a><br/>
+  📧 <a href="mailto:your.email@example.com">Email Me</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue" alt="view count"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue" alt="profile views"/>
 </p>
