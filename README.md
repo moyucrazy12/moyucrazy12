@@ -79,9 +79,9 @@
 
 ## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact" alt="gregchd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact" alt="moyucrazy12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&locale=en" alt="gregchd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&locale=en" alt="moyucrazy12" /></p>
 
 ---
 
