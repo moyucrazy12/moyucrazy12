@@ -80,9 +80,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&theme=tokyonight&hide=issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?user=moyucrazy12&show_icons=true&theme=tokyonight&hide=issues"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=moyucrazy12&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyucrazy12&theme=tokyonight"/>
 </p>
 
 ---
