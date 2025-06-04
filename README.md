@@ -12,7 +12,11 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="180" alt="robots"/>
+  I build intelligent robotic systems that merge real-time control, AI, and autonomy—driven by a passion for innovation, hands-on research, and knowledge sharing.
+</p>
+
+<p align="center">
+  <a href="https://www.canva.com/design/DAGpa4CSnJ0/heX9obPbPh4_K79O0isQlw/view?utm_content=DAGpa4CSnJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc61bfb3311" target="_blank">Projects Presentation</a>
 </p>
 
 ---
