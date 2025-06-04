@@ -89,6 +89,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact" alt="moyucrazy12" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&theme=gruvbox&hide=issues"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyucrazy12&theme=gruvbox"/>
@@ -102,7 +103,7 @@
   <a href="mailto:c.mallqui@pucp.edu.pe" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/cristhian-mallqui-castro" target="_blank">
+  <a href="https://www.linkedin.com/in/cristhian-mallqui-castro/" target="_blank">
      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/crisspaceee/" target="_blank">
