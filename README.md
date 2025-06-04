@@ -80,9 +80,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide=issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moyucrazy12&show_icons=true&theme=tokyonight&hide=issues"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyucrazy12&theme=tokyonight"/>
 </p>
 
 ---
@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=moyucrazy12&label=Profile%20Views&color=blue" alt="profile views"/>
 </p>
