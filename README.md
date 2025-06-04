@@ -5,7 +5,7 @@
 <h1 align="center">🤖 Welcome to My Robotics & AI Lab</h1>
 
 <p align="center">
-  <img src="[https://cdn-icons-png.flaticon.com/512/4712/4712100.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ultralytics.com%2Fblog%2Ffrom-algorithms-to-automation-ais-role-in-robotics&psig=AOvVaw0i-HyMt-Jhp29cfg7rwhkP&ust=1749091639839000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLD72aPg1o0DFQAAAAAdAAAAABAM)" width="100" alt="robots"/>
+  <img src="https://cdn.prod.website-files.com/6479eab6eb2ed5e597810e9e/67efa6c1205df5cad940d3cd_677bd79c59e3a46eea413842_6605534f85f6069bdc30164f_Robotics%2525203.gif" width="100" alt="robots"/>
 </p>
 
 
