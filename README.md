@@ -20,7 +20,7 @@
 <h2>🧠 About Me</h2>
 
 <ul>
-  <li>🚀 <strong>Autonomy software & control designer</strong> for the <strong>Illaryi Rover</strong> ([Chaska Team](https://www.youtube.com/watch?v=TbBJTeVG7Tk), <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>) at the <strong>European Rover Challenge 2025</strong></li>
+  <li>🚀 <strong>Autonomy software & control designer</strong> for the <strong>Illaryi Rover</strong> (<a href="https://www.youtube.com/watch?v=TbBJTeVG7Tk" target="_blank">Chaska Team</a>, <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>) at the <strong>European Rover Challenge 2025</strong></li>
   <li>🔬 Focused on <strong>autonomous navigation</strong>, <strong>SLAM</strong>, <strong>AI perception</strong>, and <strong>soft robotics</strong></li>
   <li>⚙️ Skilled in <strong>ROS</strong>, <strong>embedded systems</strong>, and <strong>deep learning</strong></li>
    <li>🌍 International experience in robotics across:
