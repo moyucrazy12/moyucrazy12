@@ -21,25 +21,25 @@
 
 ---
 
-<h2>🧠 About Me</h2>
+<h2> About Me</h2>
 
 <ul>
-  <li>🚀 <strong>Autonomy software & control designer</strong> for the <strong>Illaryi Rover</strong> (<a href="https://www.youtube.com/watch?v=TbBJTeVG7Tk" target="_blank">Chaska Team</a>, <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>) at the <strong>European Rover Challenge 2025</strong></li>
-  <li>🔬 Focused on <strong>autonomous navigation</strong>, <strong>SLAM</strong>, <strong>AI perception</strong>, and <strong>soft robotics</strong></li>
-  <li>⚙️ Skilled in <strong>ROS</strong>, <strong>embedded systems</strong>, and <strong>deep learning</strong></li>
-   <li>🌍 International experience in robotics across:
+  <li> <strong>Autonomy software & control designer</strong> for the <strong>Illaryi Rover</strong> (<a href="https://www.youtube.com/watch?v=TbBJTeVG7Tk" target="_blank">Chaska Team</a>, <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>) at the <strong>European Rover Challenge 2025</strong></li>
+  <li> Focused on <strong>autonomous navigation</strong>, <strong>SLAM</strong>, <strong>AI perception</strong>, and <strong>soft robotics</strong></li>
+  <li> Skilled in <strong>ROS</strong>, <strong>embedded systems</strong>, and <strong>deep learning</strong></li>
+   <li> International experience in robotics across:
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>,
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/se.svg" width="20"/> <strong>Sweden</strong>,
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="20"/> <strong>Brazil</strong>, and
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20"/> <strong>USA</strong>
   </li>
-  <li>🤝 Passionate about collaborating on interdisciplinary and impactful robotics projects</li>
-  <li>🏆 FIRST PLACE @ <a href="https://www.lasc.space/past-events/3rd-lasc" target="_blank">LASC2021</a> and <a href="https://www.lasc.space/past-events/5th-lasc" target="_blank">LASC2023</a> in CanSat Cathegory (Chaska Team)</li>
+  <li> Passionate about collaborating on interdisciplinary and impactful robotics projects</li>
+  <li> FIRST PLACE @ <a href="https://www.lasc.space/past-events/3rd-lasc" target="_blank">LASC2021</a> and <a href="https://www.lasc.space/past-events/5th-lasc" target="_blank">LASC2023</a> in CanSat Cathegory (Chaska Team)</li>
 </ul>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Programming Languages
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:c.mallqui@pucp.edu.pe" target="_blank">
@@ -113,7 +113,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moyucrazy12&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" height="160"/>
