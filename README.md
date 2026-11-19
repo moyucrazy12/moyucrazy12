@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.canva.com/design/DAGpa4CSnJ0/heX9obPbPh4_K79O0isQlw/view?utm_content=DAGpa4CSnJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc61bfb3311" target="_blank">Projects Presentation</a>
+  <a href="https://moyucrazy12.github.io/#background" target="_blank">Website (2026)</a>
+  <a href="https://www.canva.com/design/DAGpa4CSnJ0/heX9obPbPh4_K79O0isQlw/view?utm_content=DAGpa4CSnJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc61bfb3311" target="_blank">Projects Presentation (2025)</a>
 </p>
 
 ---
@@ -23,14 +24,24 @@
 <h2> About Me</h2>
 
 <ul>
+  <li>Working on <strong>mobile manipulation and imitation learning</strong> with the <strong>Rainbow Robotics RBY1</strong>, including simulation, demonstration generation, MimicGen, and Diffusion Policy</li>
+   <li>Researching <strong>visual room-transition detection and topological scene understanding</strong> using vision foundation models and temporal neural networks</li>
+
+  <li>Developing perception, state estimation, and autonomous landing for the <strong>DJI Matrice 350</strong> as part of the ALARS project at  <strong><a href="https://github.com/smarc-project/smarc2" target="_blank">SMaRC</a></strong> </li>
+
+   <li>Worked on <strong><a href="https://github.com/DefineDan/mapless-robotics" target="_blank">mapless robotics</a></strong> for visual navigation and environment understanding without a prebuilt metric map, integrating <strong>LoTIS, object detection, and live RealSense input</strong></li>
+
+  <li>Hands-on experience with <strong>RBY1, Unitree A2/Go2, Boston Dynamics Spot, DJI Matrice 350</strong>, and autonomous exploration rovers</li>
+
+  <li>Worked with legged robots during the <strong>ETH RobotX Robotics Summer School</strong> and <strong>RimA Robotics Summer School 2026</strong></li>
   <li> <strong>Autonomy software & control designer</strong> for the <strong>Illary Rover</strong> (<a href="https://www.youtube.com/watch?v=TbBJTeVG7Tk" target="_blank">Chaska Team</a>, <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>) at the <strong>European Rover Challenge 2025</strong></li>
-  <li> Focused on <strong>autonomous navigation</strong>, <strong>SLAM</strong>, <strong>AI perception</strong>, and <strong>soft robotics</strong></li>
-  <li> Skilled in <strong>ROS</strong>, <strong>embedded systems</strong>, and <strong>deep learning</strong></li>
    <li> International experience in robotics across:
-    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>,
-    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/se.svg" width="20"/> <strong>Sweden</strong>,
-    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="20"/> <strong>Brazil</strong>, and
-    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20"/> <strong>USA</strong>
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> ,
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/se.svg" width="20"/> ,
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ch.svg" width="20"/> ,
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg" width="20"/> ,
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="20"/> , and
+    <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20"/> 
   </li>
   <li> Passionate about collaborating on interdisciplinary and impactful robotics projects</li>
   <li> FIRST PLACE @ <a href="https://www.lasc.space/past-events/3rd-lasc" target="_blank">LASC2021</a> and <a href="https://www.lasc.space/past-events/5th-lasc" target="_blank">LASC2023</a> in CanSat Cathegory (Chaska Team)</li>
@@ -71,6 +82,17 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
+### Simulation & Robot Learning
+
+<p>
+  <img src="https://img.shields.io/badge/MuJoCo-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MimicGen-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RoboCasa-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Habitat--Sim-0467DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
 ### Hardware & Embedded
 
 <p>
@@ -90,7 +112,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArduPilot-UAV--Autopilot-213A64?style=for-the-badge&logo=airplayaudio&logoColor=white"/>
 
 </p>
 
@@ -105,8 +126,8 @@
   <a href="https://www.linkedin.com/in/cristhian-mallqui-castro/" target="_blank">
      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/crisspaceee/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://moyucrazy12.github.io" target="_blank">
+   <img alt="Webpage" src="https://img.shields.io/badge/Webpage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
