@@ -34,7 +34,7 @@
   <li>Hands-on experience with <strong>RBY1, Unitree A2/Go2, Boston Dynamics Spot, DJI Matrice 350</strong>, and autonomous exploration rovers</li>
 
   <li>Worked with legged robots during the <strong>ETH RobotX Robotics Summer School</strong> and <strong>RimA Robotics Summer School 2026</strong></li>
-  <li> <strong>Autonomy software & control designer</strong> for the <strong>Illary Rover</strong> (<a href="https://www.youtube.com/watch?v=TbBJTeVG7Tk" target="_blank">Chaska Team</a>, <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>) at the <strong>European Rover Challenge 2025</strong></li>
+  <li> <strong>Autonomy software & control designer</strong> for the <strong>Illaryi Rover</strong> (<a href="https://www.instagram.com/chaskarover.pucp/" target="_blank">Chaska Team</a>, <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> <strong>Peru</strong>) at the <strong>European Rover Challenge 2025</strong></li>
    <li> International experience in robotics across:
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg" width="20"/> ,
     <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/se.svg" width="20"/> ,
